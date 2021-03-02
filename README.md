@@ -9,6 +9,8 @@
 
   <p align="center">
     A small ESP-8266 based temperature and humidity logging system!
+  (Currently In Testing.. Info in the readme are still updating)
+
     <br />
     <a href=#"><strong>Explore the docs »</strong></a>
     <br />
