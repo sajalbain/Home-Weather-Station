@@ -13,8 +13,8 @@ IPAddress subnet(255, 255, 255, 0);  //Subnet mask
 IPAddress dns(192, 168, 1, 1);  //DNS
 const char* deviceName = "temperature.sensor";
 /*Put your SSID & Password*/
-const char* ssid = "GreenHeart";  // Enter SSID here
-const char* password = "politeoctopus0896";  //Enter Password here
+const char* ssid = "<SSID>";  // Enter SSID here
+const char* password = "<PASSWORD>";  //Enter Password here
 ESP8266WebServer server(80);
 
 // DHT Sensor
